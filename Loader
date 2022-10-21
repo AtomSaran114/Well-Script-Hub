@@ -1,0 +1,8 @@
+local placeId = game.PlaceId
+if placeId == 6329844902 then -- Last Pirate
+    https://raw.githubusercontent.com/AtomSaran114/Script-Loader/main/Well-Hub
+elseif placeId == 2753915549 then -- Blox Fruit
+    game.Players:WaitForChild("LocalPlayer"):Kick("Script Not Support")
+elseif placeId == 4520749081 then -- King Legacy
+    game.Players:WaitForChild("LocalPlayer"):Kick("Script Not Support")
+end
